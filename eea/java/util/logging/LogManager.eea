@@ -1,0 +1,7 @@
+class java/util/logging/LogManager
+getLogManager
+ ()Ljava/util/logging/LogManager;
+ ()L1java/util/logging/LogManager;
+getLoggerNames
+ ()Ljava/util/Enumeration<Ljava/lang/String;>;
+ ()L1java/util/Enumeration<L1java/lang/String;>;

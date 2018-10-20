@@ -1,0 +1,4 @@
+class java/lang/StackTraceElement
+getClassName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

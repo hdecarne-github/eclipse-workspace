@@ -1,0 +1,13 @@
+class java/nio/file/Path
+resolve
+ (Ljava/lang/String;)Ljava/nio/file/Path;
+ (Ljava/lang/String;)L1java/nio/file/Path;
+toAbsolutePath
+ ()Ljava/nio/file/Path;
+ ()L1java/nio/file/Path;
+toFile
+ ()Ljava/io/File;
+ ()L1java/io/File;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

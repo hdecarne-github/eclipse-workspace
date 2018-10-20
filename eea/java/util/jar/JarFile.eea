@@ -1,0 +1,4 @@
+class java/util/jar/JarFile
+stream
+ ()Ljava/util/stream/Stream<Ljava/util/jar/JarEntry;>;
+ ()L1java/util/stream/Stream<L1java/util/jar/JarEntry;>;
