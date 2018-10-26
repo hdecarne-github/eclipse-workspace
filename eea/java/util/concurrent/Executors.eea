@@ -1,0 +1,4 @@
+class java/util/concurrent/Executors
+newScheduledThreadPool
+ (I)Ljava/util/concurrent/ScheduledExecutorService;
+ (I)L1java/util/concurrent/ScheduledExecutorService;

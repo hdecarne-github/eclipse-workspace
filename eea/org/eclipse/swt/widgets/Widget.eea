@@ -1,0 +1,4 @@
+class org/eclipse/swt/widgets/Widget
+getDisplay
+ ()Lorg/eclipse/swt/widgets/Display;
+ ()L1org/eclipse/swt/widgets/Display;

@@ -1,0 +1,4 @@
+class java/nio/file/attribute/PosixFileAttributes
+permissions
+ ()Ljava/util/Set<Ljava/nio/file/attribute/PosixFilePermission;>;
+ ()L1java/util/Set<L1java/nio/file/attribute/PosixFilePermission;>;

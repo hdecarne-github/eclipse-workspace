@@ -1,0 +1,4 @@
+class java/util/ResourceBundle
+getBundle
+ (Ljava/lang/String;)Ljava/util/ResourceBundle;
+ (Ljava/lang/String;)L1java/util/ResourceBundle;

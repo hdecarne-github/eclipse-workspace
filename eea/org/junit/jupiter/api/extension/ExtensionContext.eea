@@ -1,0 +1,4 @@
+class org/junit/jupiter/api/extension/ExtensionContext
+getParent
+ ()Ljava/util/Optional<Lorg/junit/jupiter/api/extension/ExtensionContext;>;
+ ()L1java/util/Optional<L0org/junit/jupiter/api/extension/ExtensionContext;>;

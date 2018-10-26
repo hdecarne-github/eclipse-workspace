@@ -1,0 +1,4 @@
+class java/lang/StringBuffer
+append
+ (Ljava/lang/String;)Ljava/lang/StringBuffer;
+ (Ljava/lang/String;)L1java/lang/StringBuffer;
