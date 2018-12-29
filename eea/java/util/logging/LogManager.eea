@@ -2,6 +2,9 @@ class java/util/logging/LogManager
 getLogManager
  ()Ljava/util/logging/LogManager;
  ()L1java/util/logging/LogManager;
+getLogger
+ (Ljava/lang/String;)Ljava/util/logging/Logger;
+ (Ljava/lang/String;)L0java/util/logging/Logger;
 getLoggerNames
  ()Ljava/util/Enumeration<Ljava/lang/String;>;
  ()L1java/util/Enumeration<L1java/lang/String;>;

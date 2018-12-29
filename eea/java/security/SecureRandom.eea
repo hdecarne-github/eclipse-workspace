@@ -1,0 +1,4 @@
+class java/security/SecureRandom
+getInstanceStrong
+ ()Ljava/security/SecureRandom;
+ ()L1java/security/SecureRandom;

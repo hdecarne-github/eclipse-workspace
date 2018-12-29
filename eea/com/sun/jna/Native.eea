@@ -1,0 +1,4 @@
+class com/sun/jna/Native
+load
+ <T::Lcom/sun/jna/Library;>(Ljava/lang/String;Ljava/lang/Class<TT;>;)TT;
+ <T::Lcom/sun/jna/Library;>(Ljava/lang/String;Ljava/lang/Class<TT;>;)T1T;

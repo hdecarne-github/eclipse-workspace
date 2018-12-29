@@ -1,0 +1,7 @@
+class org/junit/jupiter/api/extension/ConditionEvaluationResult
+disabled
+ (Ljava/lang/String;)Lorg/junit/jupiter/api/extension/ConditionEvaluationResult;
+ (Ljava/lang/String;)L1org/junit/jupiter/api/extension/ConditionEvaluationResult;
+enabled
+ (Ljava/lang/String;)Lorg/junit/jupiter/api/extension/ConditionEvaluationResult;
+ (Ljava/lang/String;)L1org/junit/jupiter/api/extension/ConditionEvaluationResult;

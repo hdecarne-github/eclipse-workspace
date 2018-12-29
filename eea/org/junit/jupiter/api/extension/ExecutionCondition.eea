@@ -1,0 +1,4 @@
+class org/junit/jupiter/api/extension/ExecutionCondition
+evaluateExecutionCondition
+ (Lorg/junit/jupiter/api/extension/ExtensionContext;)Lorg/junit/jupiter/api/extension/ConditionEvaluationResult;
+ (L1org/junit/jupiter/api/extension/ExtensionContext;)L1org/junit/jupiter/api/extension/ConditionEvaluationResult;

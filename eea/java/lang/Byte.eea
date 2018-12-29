@@ -1,0 +1,4 @@
+class java/lang/Byte
+valueOf
+ (B)Ljava/lang/Byte;
+ (B)L1java/lang/Byte;
