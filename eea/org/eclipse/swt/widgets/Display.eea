@@ -1,0 +1,7 @@
+class org/eclipse/swt/widgets/Display
+findDisplay
+ (Ljava/lang/Thread;)Lorg/eclipse/swt/widgets/Display;
+ (Ljava/lang/Thread;)L0org/eclipse/swt/widgets/Display;
+getShells
+ ()[Lorg/eclipse/swt/widgets/Shell;
+ ()[1L1org/eclipse/swt/widgets/Shell;

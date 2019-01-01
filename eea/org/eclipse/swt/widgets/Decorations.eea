@@ -1,0 +1,4 @@
+class org/eclipse/swt/widgets/Decorations
+getText
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
