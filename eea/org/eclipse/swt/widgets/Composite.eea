@@ -1,0 +1,4 @@
+class org/eclipse/swt/widgets/Composite
+getChildren
+ ()[Lorg/eclipse/swt/widgets/Control;
+ ()[1L1org/eclipse/swt/widgets/Control;

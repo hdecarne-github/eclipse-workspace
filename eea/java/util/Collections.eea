@@ -8,3 +8,6 @@ emptySet
 unmodifiableCollection
  <T:Ljava/lang/Object;>(Ljava/util/Collection<+TT;>;)Ljava/util/Collection<TT;>;
  <T:Ljava/lang/Object;>(Ljava/util/Collection<+TT;>;)L1java/util/Collection<TT;>;
+unmodifiableSet
+ <T:Ljava/lang/Object;>(Ljava/util/Set<+TT;>;)Ljava/util/Set<TT;>;
+ <T:Ljava/lang/Object;>(Ljava/util/Set<+TT;>;)L1java/util/Set<TT;>;

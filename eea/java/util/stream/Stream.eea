@@ -2,6 +2,9 @@ class java/util/stream/Stream
 collect
  <R:Ljava/lang/Object;A:Ljava/lang/Object;>(Ljava/util/stream/Collector<-TT;TA;TR;>;)TR;
  <R:Ljava/lang/Object;A:Ljava/lang/Object;>(Ljava/util/stream/Collector<-TT;TA;TR;>;)T1R;
+empty
+ <T:Ljava/lang/Object;>()Ljava/util/stream/Stream<TT;>;
+ <T:Ljava/lang/Object;>()L1java/util/stream/Stream<TT;>;
 filter
  (Ljava/util/function/Predicate<-TT;>;)Ljava/util/stream/Stream<TT;>;
  (Ljava/util/function/Predicate<-TT;>;)L1java/util/stream/Stream<TT;>;

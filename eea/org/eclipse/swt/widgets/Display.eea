@@ -2,6 +2,18 @@ class org/eclipse/swt/widgets/Display
 findDisplay
  (Ljava/lang/Thread;)Lorg/eclipse/swt/widgets/Display;
  (Ljava/lang/Thread;)L0org/eclipse/swt/widgets/Display;
+getErrorHandler
+ ()Ljava/util/function/Consumer<Ljava/lang/Error;>;
+ ()L1java/util/function/Consumer<L1java/lang/Error;>;
+getRuntimeExceptionHandler
+ ()Ljava/util/function/Consumer<Ljava/lang/RuntimeException;>;
+ ()L1java/util/function/Consumer<L1java/lang/RuntimeException;>;
 getShells
  ()[Lorg/eclipse/swt/widgets/Shell;
  ()[1L1org/eclipse/swt/widgets/Shell;
+setErrorHandler
+ (Ljava/util/function/Consumer<Ljava/lang/Error;>;)V
+ (L1java/util/function/Consumer<L1java/lang/Error;>;)V
+setRuntimeExceptionHandler
+ (Ljava/util/function/Consumer<Ljava/lang/RuntimeException;>;)V
+ (L1java/util/function/Consumer<L1java/lang/RuntimeException;>;)V
