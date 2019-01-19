@@ -1,0 +1,4 @@
+class org/eclipse/swt/widgets/List
+getSelection
+ ()[Ljava/lang/String;
+ ()[1L1java/lang/String;

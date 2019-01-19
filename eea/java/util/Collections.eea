@@ -1,10 +1,4 @@
 class java/util/Collections
-emptyList
- <T:Ljava/lang/Object;>()Ljava/util/List<TT;>;
- <T:Ljava/lang/Object;>()L1java/util/List<TT;>;
-emptySet
- <T:Ljava/lang/Object;>()Ljava/util/Set<TT;>;
- <T:Ljava/lang/Object;>()L1java/util/Set<TT;>;
 unmodifiableCollection
  <T:Ljava/lang/Object;>(Ljava/util/Collection<+TT;>;)Ljava/util/Collection<TT;>;
  <T:Ljava/lang/Object;>(Ljava/util/Collection<+TT;>;)L1java/util/Collection<TT;>;

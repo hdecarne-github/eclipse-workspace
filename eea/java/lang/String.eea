@@ -14,9 +14,6 @@ substring
 toCharArray
  ()[C
  ()[1C
-toLowerCase
- ()Ljava/lang/String;
- ()L1java/lang/String;
 trim
  ()Ljava/lang/String;
  ()L1java/lang/String;

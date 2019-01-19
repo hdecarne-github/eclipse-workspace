@@ -1,0 +1,4 @@
+class java/util/stream/Collector
+characteristics
+ ()Ljava/util/Set<Ljava/util/stream/Collector$Characteristics;>;
+ ()Ljava/util/Set<L1java/util/stream/Collector$Characteristics;>;

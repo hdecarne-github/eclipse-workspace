@@ -1,7 +1,7 @@
 class java/util/logging/Logger
 getHandlers
  ()[Ljava/util/logging/Handler;
- ()[1L1java/util/logging/Handler;
+ ()[L1java/util/logging/Handler;
 getLogger
  (Ljava/lang/String;)Ljava/util/logging/Logger;
  (Ljava/lang/String;)L1java/util/logging/Logger;

@@ -1,4 +1,0 @@
-class org/glassfish/grizzly/http/util/ContentType
-newContentType
- (Ljava/lang/String;Ljava/lang/String;)Lorg/glassfish/grizzly/http/util/ContentType;
- (Ljava/lang/String;Ljava/lang/String;)L1org/glassfish/grizzly/http/util/ContentType;

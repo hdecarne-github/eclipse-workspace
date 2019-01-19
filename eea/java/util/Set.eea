@@ -2,6 +2,3 @@ class java/util/Set
 iterator
  ()Ljava/util/Iterator<TE;>;
  ()L1java/util/Iterator<TE;>;
-toArray
- <T:Ljava/lang/Object;>([TT;)[TT;
- <T:Ljava/lang/Object;>([TT;)[1TT;

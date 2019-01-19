@@ -1,4 +1,0 @@
-class java/util/logging/LogRecord
-getLevel
- ()Ljava/util/logging/Level;
- ()L1java/util/logging/Level;

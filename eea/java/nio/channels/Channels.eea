@@ -1,4 +1,0 @@
-class java/nio/channels/Channels
-newChannel
- (Ljava/io/OutputStream;)Ljava/nio/channels/WritableByteChannel;
- (Ljava/io/OutputStream;)L1java/nio/channels/WritableByteChannel;

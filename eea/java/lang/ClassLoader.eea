@@ -1,4 +1,4 @@
 class java/lang/ClassLoader
 getResources
  (Ljava/lang/String;)Ljava/util/Enumeration<Ljava/net/URL;>;
- (Ljava/lang/String;)L1java/util/Enumeration<L1java/net/URL;>;
+ (Ljava/lang/String;)Ljava/util/Enumeration<L1java/net/URL;>;

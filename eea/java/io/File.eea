@@ -1,7 +1,4 @@
 class java/io/File
-getAbsoluteFile
- ()Ljava/io/File;
- ()L1java/io/File;
 toPath
  ()Ljava/nio/file/Path;
  ()L1java/nio/file/Path;

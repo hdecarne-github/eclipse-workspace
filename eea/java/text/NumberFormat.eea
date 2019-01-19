@@ -1,10 +1,19 @@
 class java/text/NumberFormat
 format
+ (DLjava/lang/StringBuffer;Ljava/text/FieldPosition;)Ljava/lang/StringBuffer;
+ (DL1java/lang/StringBuffer;L1java/text/FieldPosition;)L1java/lang/StringBuffer;
+format
  (J)Ljava/lang/String;
  (J)L1java/lang/String;
+format
+ (JLjava/lang/StringBuffer;Ljava/text/FieldPosition;)Ljava/lang/StringBuffer;
+ (JL1java/lang/StringBuffer;L1java/text/FieldPosition;)L1java/lang/StringBuffer;
 getNumberInstance
  ()Ljava/text/NumberFormat;
  ()L1java/text/NumberFormat;
 getNumberInstance
  (Ljava/util/Locale;)Ljava/text/NumberFormat;
  (Ljava/util/Locale;)L1java/text/NumberFormat;
+parse
+ (Ljava/lang/String;Ljava/text/ParsePosition;)Ljava/lang/Number;
+ (L1java/lang/String;L1java/text/ParsePosition;)Ljava/lang/Number;

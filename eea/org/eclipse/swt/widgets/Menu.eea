@@ -1,4 +1,4 @@
 class org/eclipse/swt/widgets/Menu
 getItems
  ()[Lorg/eclipse/swt/widgets/MenuItem;
- ()[L1org/eclipse/swt/widgets/MenuItem;
+ ()[1L1org/eclipse/swt/widgets/MenuItem;

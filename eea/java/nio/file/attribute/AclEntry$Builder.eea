@@ -1,0 +1,4 @@
+class java/nio/file/attribute/AclEntry$Builder
+build
+ ()Ljava/nio/file/attribute/AclEntry;
+ ()L1java/nio/file/attribute/AclEntry;

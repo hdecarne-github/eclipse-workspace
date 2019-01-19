@@ -1,7 +1,7 @@
 class org/junit/jupiter/api/extension/ParameterResolver
 resolveParameter
  (Lorg/junit/jupiter/api/extension/ParameterContext;Lorg/junit/jupiter/api/extension/ExtensionContext;)Ljava/lang/Object;
- (L1org/junit/jupiter/api/extension/ParameterContext;L1org/junit/jupiter/api/extension/ExtensionContext;)L0java/lang/Object;
+ (L1org/junit/jupiter/api/extension/ParameterContext;L1org/junit/jupiter/api/extension/ExtensionContext;)Ljava/lang/Object;
 supportsParameter
  (Lorg/junit/jupiter/api/extension/ParameterContext;Lorg/junit/jupiter/api/extension/ExtensionContext;)Z
  (L1org/junit/jupiter/api/extension/ParameterContext;L1org/junit/jupiter/api/extension/ExtensionContext;)Z

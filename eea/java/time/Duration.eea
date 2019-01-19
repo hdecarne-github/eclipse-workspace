@@ -1,7 +1,4 @@
 class java/time/Duration
-of
- (JLjava/time/temporal/TemporalUnit;)Ljava/time/Duration;
- (JLjava/time/temporal/TemporalUnit;)L1java/time/Duration;
 ofMillis
  (J)Ljava/time/Duration;
  (J)L1java/time/Duration;
