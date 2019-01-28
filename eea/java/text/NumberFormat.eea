@@ -1,5 +1,8 @@
 class java/text/NumberFormat
 format
+ (D)Ljava/lang/String;
+ (D)L1java/lang/String;
+format
  (DLjava/lang/StringBuffer;Ljava/text/FieldPosition;)Ljava/lang/StringBuffer;
  (DL1java/lang/StringBuffer;L1java/text/FieldPosition;)L1java/lang/StringBuffer;
 format
