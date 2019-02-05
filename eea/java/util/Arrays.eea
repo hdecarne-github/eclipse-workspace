@@ -5,3 +5,15 @@ asList
 stream
  <T:Ljava/lang/Object;>([TT;)Ljava/util/stream/Stream<TT;>;
  <T:Ljava/lang/Object;>([TT;)L1java/util/stream/Stream<TT;>;
+toString
+ ([B)Ljava/lang/String;
+ ([B)L1java/lang/String;
+toString
+ ([I)Ljava/lang/String;
+ ([I)L1java/lang/String;
+toString
+ ([J)Ljava/lang/String;
+ ([J)L1java/lang/String;
+toString
+ ([S)Ljava/lang/String;
+ ([S)L1java/lang/String;

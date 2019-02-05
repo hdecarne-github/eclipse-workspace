@@ -2,3 +2,6 @@ class java/lang/Object
 getClass
  ()Ljava/lang/Class<*>;
  ()L1java/lang/Class<*>;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
