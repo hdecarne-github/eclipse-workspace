@@ -1,0 +1,4 @@
+class java/util/jar/Attributes
+entrySet
+ ()Ljava/util/Set<Ljava/util/Map$Entry<Ljava/lang/Object;Ljava/lang/Object;>;>;
+ ()L1java/util/Set<L1java/util/Map$Entry<Ljava/lang/Object;Ljava/lang/Object;>;>;

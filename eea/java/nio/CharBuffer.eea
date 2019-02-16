@@ -1,0 +1,4 @@
+class java/nio/CharBuffer
+allocate
+ (I)Ljava/nio/CharBuffer;
+ (I)L1java/nio/CharBuffer;
