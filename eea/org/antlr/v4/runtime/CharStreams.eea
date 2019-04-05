@@ -1,0 +1,10 @@
+class org/antlr/v4/runtime/CharStreams
+fromStream
+ (Ljava/io/InputStream;)Lorg/antlr/v4/runtime/CharStream;
+ (Ljava/io/InputStream;)L1org/antlr/v4/runtime/CharStream;
+fromStream
+ (Ljava/io/InputStream;Ljava/nio/charset/Charset;)Lorg/antlr/v4/runtime/CharStream;
+ (Ljava/io/InputStream;Ljava/nio/charset/Charset;)L1org/antlr/v4/runtime/CharStream;
+fromStream
+ (Ljava/io/InputStream;Ljava/nio/charset/Charset;J)Lorg/antlr/v4/runtime/CharStream;
+ (Ljava/io/InputStream;Ljava/nio/charset/Charset;J)L1org/antlr/v4/runtime/CharStream;

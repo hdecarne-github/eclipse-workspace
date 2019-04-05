@@ -2,3 +2,9 @@ class java/time/LocalDateTime
 format
  (Ljava/time/format/DateTimeFormatter;)Ljava/lang/String;
  (Ljava/time/format/DateTimeFormatter;)L1java/lang/String;
+of
+ (IIIIII)Ljava/time/LocalDateTime;
+ (IIIIII)L1java/time/LocalDateTime;
+plus
+ (JLjava/time/temporal/TemporalUnit;)Ljava/time/LocalDateTime;
+ (JLjava/time/temporal/TemporalUnit;)L1java/time/LocalDateTime;

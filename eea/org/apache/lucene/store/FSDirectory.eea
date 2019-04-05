@@ -1,0 +1,4 @@
+class org/apache/lucene/store/FSDirectory
+open
+ (Ljava/nio/file/Path;)Lorg/apache/lucene/store/FSDirectory;
+ (Ljava/nio/file/Path;)L1org/apache/lucene/store/FSDirectory;

@@ -2,6 +2,12 @@ class java/nio/ByteBuffer
 allocate
  (I)Ljava/nio/ByteBuffer;
  (I)L1java/nio/ByteBuffer;
+order
+ (Ljava/nio/ByteOrder;)Ljava/nio/ByteBuffer;
+ (Ljava/nio/ByteOrder;)L1java/nio/ByteBuffer;
+wrap
+ ([B)Ljava/nio/ByteBuffer;
+ ([B)L1java/nio/ByteBuffer;
 wrap
  ([BII)Ljava/nio/ByteBuffer;
  ([BII)L1java/nio/ByteBuffer;

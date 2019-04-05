@@ -1,0 +1,7 @@
+class org/apache/lucene/index/DirectoryReader
+open
+ (Lorg/apache/lucene/store/Directory;)Lorg/apache/lucene/index/DirectoryReader;
+ (Lorg/apache/lucene/store/Directory;)L1org/apache/lucene/index/DirectoryReader;
+openIfChanged
+ (Lorg/apache/lucene/index/DirectoryReader;)Lorg/apache/lucene/index/DirectoryReader;
+ (Lorg/apache/lucene/index/DirectoryReader;)L0org/apache/lucene/index/DirectoryReader;

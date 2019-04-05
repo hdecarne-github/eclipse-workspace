@@ -8,6 +8,9 @@ getRuntimeExceptionHandler
 getShells
  ()[Lorg/eclipse/swt/widgets/Shell;
  ()[L1org/eclipse/swt/widgets/Shell;
+getSystemColor
+ (I)Lorg/eclipse/swt/graphics/Color;
+ (I)L1org/eclipse/swt/graphics/Color;
 setErrorHandler
  (Ljava/util/function/Consumer<Ljava/lang/Error;>;)V
  (Ljava/util/function/Consumer<L1java/lang/Error;>;)V

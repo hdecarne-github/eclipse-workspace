@@ -1,0 +1,7 @@
+class org/eclipse/swt/events/FocusListener
+focusGained
+ (Lorg/eclipse/swt/events/FocusEvent;)V
+ (L1org/eclipse/swt/events/FocusEvent;)V
+focusLost
+ (Lorg/eclipse/swt/events/FocusEvent;)V
+ (L1org/eclipse/swt/events/FocusEvent;)V

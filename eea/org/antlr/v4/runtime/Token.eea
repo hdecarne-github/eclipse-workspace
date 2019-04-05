@@ -1,0 +1,4 @@
+class org/antlr/v4/runtime/Token
+getText
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

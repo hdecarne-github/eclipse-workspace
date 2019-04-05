@@ -1,0 +1,7 @@
+class org/eclipse/swt/events/ControlListener
+controlMoved
+ (Lorg/eclipse/swt/events/ControlEvent;)V
+ (L1org/eclipse/swt/events/ControlEvent;)V
+controlResized
+ (Lorg/eclipse/swt/events/ControlEvent;)V
+ (L1org/eclipse/swt/events/ControlEvent;)V
