@@ -1,0 +1,10 @@
+class java/net/URI
+create
+ (Ljava/lang/String;)Ljava/net/URI;
+ (Ljava/lang/String;)L1java/net/URI;
+resolve
+ (Ljava/lang/String;)Ljava/net/URI;
+ (Ljava/lang/String;)L1java/net/URI;
+toASCIIString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
