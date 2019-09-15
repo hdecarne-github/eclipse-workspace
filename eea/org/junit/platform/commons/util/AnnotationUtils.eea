@@ -1,0 +1,4 @@
+class org/junit/platform/commons/util/AnnotationUtils
+findAnnotatedFields
+ (Ljava/lang/Class<*>;Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;Ljava/util/function/Predicate<Ljava/lang/reflect/Field;>;)Ljava/util/List<Ljava/lang/reflect/Field;>;
+ (Ljava/lang/Class<*>;Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;Ljava/util/function/Predicate<Ljava/lang/reflect/Field;>;)Ljava/util/List<Ljava/lang/reflect/Field;>;

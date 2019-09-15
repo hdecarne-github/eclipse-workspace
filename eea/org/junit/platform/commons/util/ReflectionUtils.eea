@@ -1,0 +1,4 @@
+class org/junit/platform/commons/util/ReflectionUtils
+makeAccessible
+ <T:Ljava/lang/reflect/AccessibleObject;>(TT;)TT;
+ <T:Ljava/lang/reflect/AccessibleObject;>(T1T;)T1T;
