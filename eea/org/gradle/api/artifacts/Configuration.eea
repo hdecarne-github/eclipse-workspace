@@ -1,0 +1,4 @@
+class org/gradle/api/artifacts/Configuration
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

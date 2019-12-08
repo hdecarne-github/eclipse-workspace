@@ -1,0 +1,4 @@
+class org/gradle/api/artifacts/ComponentSelection
+getCandidate
+ ()Lorg/gradle/api/artifacts/component/ModuleComponentIdentifier;
+ ()L1org/gradle/api/artifacts/component/ModuleComponentIdentifier;

@@ -1,0 +1,10 @@
+class org/gradle/api/artifacts/component/ModuleComponentIdentifier
+getGroup
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getModule
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getVersion
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

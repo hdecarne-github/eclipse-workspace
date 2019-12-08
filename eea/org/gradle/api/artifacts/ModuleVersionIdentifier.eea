@@ -1,0 +1,10 @@
+class org/gradle/api/artifacts/ModuleVersionIdentifier
+getGroup
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getVersion
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

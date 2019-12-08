@@ -2,3 +2,6 @@ class java/lang/System
 lineSeparator
  ()Ljava/lang/String;
  ()L1java/lang/String;
+out
+ Ljava/io/PrintStream;
+ L1java/io/PrintStream;

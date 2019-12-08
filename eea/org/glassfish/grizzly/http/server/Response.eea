@@ -1,0 +1,7 @@
+class org/glassfish/grizzly/http/server/Response
+getNIOWriter
+ ()Lorg/glassfish/grizzly/http/io/NIOWriter;
+ ()L1org/glassfish/grizzly/http/io/NIOWriter;
+getWriter
+ ()Ljava/io/Writer;
+ ()L1java/io/Writer;

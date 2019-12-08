@@ -17,6 +17,12 @@ getFileAttributeView
 newBufferedWriter
  (Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/BufferedWriter;
  (Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)L1java/io/BufferedWriter;
+newByteChannel
+ (Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/nio/channels/SeekableByteChannel;
+ (Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)L1java/nio/channels/SeekableByteChannel;
+newOutputStream
+ (Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/OutputStream;
+ (Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)L1java/io/OutputStream;
 readAllBytes
  (Ljava/nio/file/Path;)[B
  (Ljava/nio/file/Path;)[1B

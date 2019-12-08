@@ -1,4 +1,7 @@
 class org/apache/lucene/store/FSDirectory
+listAll
+ ()[Ljava/lang/String;
+ ()[L1java/lang/String;
 open
  (Ljava/nio/file/Path;)Lorg/apache/lucene/store/FSDirectory;
  (Ljava/nio/file/Path;)L1org/apache/lucene/store/FSDirectory;

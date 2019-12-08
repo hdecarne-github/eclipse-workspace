@@ -2,6 +2,9 @@ class java/nio/ByteBuffer
 allocate
  (I)Ljava/nio/ByteBuffer;
  (I)L1java/nio/ByteBuffer;
+asReadOnlyBuffer
+ ()Ljava/nio/ByteBuffer;
+ ()L1java/nio/ByteBuffer;
 duplicate
  ()Ljava/nio/ByteBuffer;
  ()L1java/nio/ByteBuffer;

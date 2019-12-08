@@ -1,0 +1,4 @@
+class org/gradle/api/artifacts/ComponentSelectionRules
+all
+ (Lorg/gradle/api/Action<-Lorg/gradle/api/artifacts/ComponentSelection;>;)Lorg/gradle/api/artifacts/ComponentSelectionRules;
+ (Lorg/gradle/api/Action<-L1org/gradle/api/artifacts/ComponentSelection;>;)Lorg/gradle/api/artifacts/ComponentSelectionRules;
