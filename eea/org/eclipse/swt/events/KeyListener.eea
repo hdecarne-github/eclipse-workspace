@@ -2,6 +2,9 @@ class org/eclipse/swt/events/KeyListener
 keyPressed
  (Lorg/eclipse/swt/events/KeyEvent;)V
  (L1org/eclipse/swt/events/KeyEvent;)V
+keyPressedAdapter
+ (Ljava/util/function/Consumer<Lorg/eclipse/swt/events/KeyEvent;>;)Lorg/eclipse/swt/events/KeyListener;
+ (Ljava/util/function/Consumer<Lorg/eclipse/swt/events/KeyEvent;>;)Lorg/eclipse/swt/events/KeyListener;
 keyReleased
  (Lorg/eclipse/swt/events/KeyEvent;)V
  (L1org/eclipse/swt/events/KeyEvent;)V

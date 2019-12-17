@@ -1,0 +1,3 @@
+class java/util/function/Consumer
+ <T:Ljava/lang/Object;>
+ <1T:Ljava/lang/Object;>

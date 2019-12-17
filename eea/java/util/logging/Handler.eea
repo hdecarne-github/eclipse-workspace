@@ -1,0 +1,4 @@
+class java/util/logging/Handler
+publish
+ (Ljava/util/logging/LogRecord;)V
+ (L1java/util/logging/LogRecord;)V
