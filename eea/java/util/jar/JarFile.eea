@@ -1,4 +1,7 @@
 class java/util/jar/JarFile
+entries
+ ()Ljava/util/Enumeration<Ljava/util/jar/JarEntry;>;
+ ()L1java/util/Enumeration<L1java/util/jar/JarEntry;>;
 stream
  ()Ljava/util/stream/Stream<Ljava/util/jar/JarEntry;>;
  ()Ljava/util/stream/Stream<L1java/util/jar/JarEntry;>;
