@@ -8,3 +8,6 @@ resolve
 toASCIIString
  ()Ljava/lang/String;
  ()L1java/lang/String;
+toURL
+ ()Ljava/net/URL;
+ ()L1java/net/URL;
