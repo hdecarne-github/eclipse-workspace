@@ -2,6 +2,9 @@ class java/lang/Short
 decode
  (Ljava/lang/String;)Ljava/lang/Short;
  (Ljava/lang/String;)L1java/lang/Short;
+toString
+ (S)Ljava/lang/String;
+ (S)L1java/lang/String;
 valueOf
  (S)Ljava/lang/Short;
  (S)L1java/lang/Short;

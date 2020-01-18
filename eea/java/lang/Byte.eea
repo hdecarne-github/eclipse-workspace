@@ -2,6 +2,9 @@ class java/lang/Byte
 decode
  (Ljava/lang/String;)Ljava/lang/Byte;
  (Ljava/lang/String;)L1java/lang/Byte;
+toString
+ (B)Ljava/lang/String;
+ (B)L1java/lang/String;
 valueOf
  (B)Ljava/lang/Byte;
  (B)L1java/lang/Byte;

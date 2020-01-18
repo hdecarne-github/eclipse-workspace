@@ -2,3 +2,9 @@ class java/util/Deque
 peek
  ()TE;
  ()T0E;
+pollFirst
+ ()TE;
+ ()T0E;
+pollLast
+ ()TE;
+ ()T0E;

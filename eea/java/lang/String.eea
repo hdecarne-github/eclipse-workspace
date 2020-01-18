@@ -23,6 +23,9 @@ toCharArray
 toLowerCase
  ()Ljava/lang/String;
  ()L1java/lang/String;
+toUpperCase
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
 trim
  ()Ljava/lang/String;
  ()L1java/lang/String;
