@@ -1,0 +1,4 @@
+class javax/ws/rs/client/ClientResponseFilter
+filter
+ (Ljavax/ws/rs/client/ClientRequestContext;Ljavax/ws/rs/client/ClientResponseContext;)V
+ (L1javax/ws/rs/client/ClientRequestContext;L1javax/ws/rs/client/ClientResponseContext;)V

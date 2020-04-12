@@ -5,6 +5,9 @@ format
 of
  (IIIIII)Ljava/time/LocalDateTime;
  (IIIIII)L1java/time/LocalDateTime;
+ofInstant
+ (Ljava/time/Instant;Ljava/time/ZoneId;)Ljava/time/LocalDateTime;
+ (Ljava/time/Instant;Ljava/time/ZoneId;)L1java/time/LocalDateTime;
 plus
  (JLjava/time/temporal/TemporalUnit;)Ljava/time/LocalDateTime;
  (JLjava/time/temporal/TemporalUnit;)L1java/time/LocalDateTime;

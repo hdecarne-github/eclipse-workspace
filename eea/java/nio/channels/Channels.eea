@@ -5,3 +5,6 @@ newChannel
 newChannel
  (Ljava/io/OutputStream;)Ljava/nio/channels/WritableByteChannel;
  (Ljava/io/OutputStream;)L1java/nio/channels/WritableByteChannel;
+newWriter
+ (Ljava/nio/channels/WritableByteChannel;Ljava/nio/charset/CharsetEncoder;I)Ljava/io/Writer;
+ (Ljava/nio/channels/WritableByteChannel;Ljava/nio/charset/CharsetEncoder;I)L1java/io/Writer;

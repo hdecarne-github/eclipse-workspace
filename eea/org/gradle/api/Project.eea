@@ -11,3 +11,6 @@ getConfigurations
 getName
  ()Ljava/lang/String;
  ()L1java/lang/String;
+getProjectDir
+ ()Ljava/io/File;
+ ()L1java/io/File;

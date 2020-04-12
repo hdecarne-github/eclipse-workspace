@@ -1,0 +1,4 @@
+class javax/ws/rs/client/ClientBuilder
+build
+ ()Ljavax/ws/rs/client/Client;
+ ()L1javax/ws/rs/client/Client;

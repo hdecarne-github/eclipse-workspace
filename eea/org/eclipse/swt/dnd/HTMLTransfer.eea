@@ -1,0 +1,4 @@
+class org/eclipse/swt/dnd/HTMLTransfer
+getInstance
+ ()Lorg/eclipse/swt/dnd/HTMLTransfer;
+ ()L1org/eclipse/swt/dnd/HTMLTransfer;

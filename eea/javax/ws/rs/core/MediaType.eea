@@ -1,0 +1,4 @@
+class javax/ws/rs/core/MediaType
+valueOf
+ (Ljava/lang/String;)Ljavax/ws/rs/core/MediaType;
+ (Ljava/lang/String;)L1javax/ws/rs/core/MediaType;

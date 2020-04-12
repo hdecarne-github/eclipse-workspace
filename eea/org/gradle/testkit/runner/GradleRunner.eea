@@ -1,0 +1,16 @@
+class org/gradle/testkit/runner/GradleRunner
+build
+ ()Lorg/gradle/testkit/runner/BuildResult;
+ ()L1org/gradle/testkit/runner/BuildResult;
+create
+ ()Lorg/gradle/testkit/runner/GradleRunner;
+ ()L1org/gradle/testkit/runner/GradleRunner;
+withPluginClasspath
+ ()Lorg/gradle/testkit/runner/GradleRunner;
+ ()L1org/gradle/testkit/runner/GradleRunner;
+withProjectDir
+ (Ljava/io/File;)Lorg/gradle/testkit/runner/GradleRunner;
+ (Ljava/io/File;)L1org/gradle/testkit/runner/GradleRunner;
+withTestKitDir
+ (Ljava/io/File;)Lorg/gradle/testkit/runner/GradleRunner;
+ (Ljava/io/File;)L1org/gradle/testkit/runner/GradleRunner;

@@ -1,0 +1,4 @@
+class org/gradle/testkit/runner/BuildResult
+getOutput
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
