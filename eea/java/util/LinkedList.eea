@@ -1,0 +1,4 @@
+class java/util/LinkedList
+peekLast
+ ()TE;
+ ()T0E;

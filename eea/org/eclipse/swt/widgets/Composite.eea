@@ -1,4 +1,7 @@
 class org/eclipse/swt/widgets/Composite
+computeSize
+ (IIZ)Lorg/eclipse/swt/graphics/Point;
+ (IIZ)L1org/eclipse/swt/graphics/Point;
 getChildren
  ()[Lorg/eclipse/swt/widgets/Control;
  ()[1L1org/eclipse/swt/widgets/Control;

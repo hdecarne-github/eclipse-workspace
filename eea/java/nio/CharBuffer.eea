@@ -2,3 +2,9 @@ class java/nio/CharBuffer
 allocate
  (I)Ljava/nio/CharBuffer;
  (I)L1java/nio/CharBuffer;
+clear
+ ()Ljava/nio/CharBuffer;
+ ()L1java/nio/CharBuffer;
+limit
+ (I)Ljava/nio/CharBuffer;
+ (I)L1java/nio/CharBuffer;

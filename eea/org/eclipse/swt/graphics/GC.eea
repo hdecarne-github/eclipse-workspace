@@ -1,0 +1,4 @@
+class org/eclipse/swt/graphics/GC
+textExtent
+ (Ljava/lang/String;I)Lorg/eclipse/swt/graphics/Point;
+ (Ljava/lang/String;I)L1org/eclipse/swt/graphics/Point;

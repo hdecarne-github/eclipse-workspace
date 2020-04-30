@@ -1,0 +1,7 @@
+class java/nio/charset/CharsetDecoder
+onMalformedInput
+ (Ljava/nio/charset/CodingErrorAction;)Ljava/nio/charset/CharsetDecoder;
+ (Ljava/nio/charset/CodingErrorAction;)L1java/nio/charset/CharsetDecoder;
+onUnmappableCharacter
+ (Ljava/nio/charset/CodingErrorAction;)Ljava/nio/charset/CharsetDecoder;
+ (Ljava/nio/charset/CodingErrorAction;)L1java/nio/charset/CharsetDecoder;

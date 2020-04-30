@@ -8,9 +8,15 @@ asReadOnlyBuffer
 duplicate
  ()Ljava/nio/ByteBuffer;
  ()L1java/nio/ByteBuffer;
+limit
+ (I)Ljava/nio/ByteBuffer;
+ (I)L1java/nio/ByteBuffer;
 order
  (Ljava/nio/ByteOrder;)Ljava/nio/ByteBuffer;
  (Ljava/nio/ByteOrder;)L1java/nio/ByteBuffer;
+position
+ (I)Ljava/nio/ByteBuffer;
+ (I)L1java/nio/ByteBuffer;
 wrap
  ([B)Ljava/nio/ByteBuffer;
  ([B)L1java/nio/ByteBuffer;

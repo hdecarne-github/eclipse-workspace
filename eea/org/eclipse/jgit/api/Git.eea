@@ -1,0 +1,4 @@
+class org/eclipse/jgit/api/Git
+open
+ (Ljava/io/File;)Lorg/eclipse/jgit/api/Git;
+ (Ljava/io/File;)L1org/eclipse/jgit/api/Git;
