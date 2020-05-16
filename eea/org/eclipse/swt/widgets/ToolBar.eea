@@ -1,0 +1,4 @@
+class org/eclipse/swt/widgets/ToolBar
+getItems
+ ()[Lorg/eclipse/swt/widgets/ToolItem;
+ ()[L1org/eclipse/swt/widgets/ToolItem;

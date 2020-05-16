@@ -1,0 +1,16 @@
+class org/eclipse/swt/events/ShellListener
+shellActivated
+ (Lorg/eclipse/swt/events/ShellEvent;)V
+ (L1org/eclipse/swt/events/ShellEvent;)V
+shellClosed
+ (Lorg/eclipse/swt/events/ShellEvent;)V
+ (L1org/eclipse/swt/events/ShellEvent;)V
+shellDeactivated
+ (Lorg/eclipse/swt/events/ShellEvent;)V
+ (L1org/eclipse/swt/events/ShellEvent;)V
+shellDeiconified
+ (Lorg/eclipse/swt/events/ShellEvent;)V
+ (L1org/eclipse/swt/events/ShellEvent;)V
+shellIconified
+ (Lorg/eclipse/swt/events/ShellEvent;)V
+ (L1org/eclipse/swt/events/ShellEvent;)V

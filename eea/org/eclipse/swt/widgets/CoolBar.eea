@@ -1,0 +1,4 @@
+class org/eclipse/swt/widgets/CoolBar
+getItems
+ ()[Lorg/eclipse/swt/widgets/CoolItem;
+ ()[L1org/eclipse/swt/widgets/CoolItem;

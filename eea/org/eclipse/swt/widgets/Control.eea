@@ -1,0 +1,4 @@
+class org/eclipse/swt/widgets/Control
+computeSize
+ (IIZ)Lorg/eclipse/swt/graphics/Point;
+ (IIZ)L1org/eclipse/swt/graphics/Point;
