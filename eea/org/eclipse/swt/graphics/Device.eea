@@ -1,0 +1,4 @@
+class org/eclipse/swt/graphics/Device
+getFontList
+ (Ljava/lang/String;Z)[Lorg/eclipse/swt/graphics/FontData;
+ (Ljava/lang/String;Z)[1Lorg/eclipse/swt/graphics/FontData;
