@@ -8,6 +8,9 @@ peekFirst
 peekLast
  ()TE;
  ()T0E;
+poll
+ ()TE;
+ ()T0E;
 pollFirst
  ()TE;
  ()T0E;

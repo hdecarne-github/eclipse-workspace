@@ -1,0 +1,4 @@
+class org/mockito/Mockito
+mockConstruction
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;Lorg/mockito/MockSettings;Lorg/mockito/MockedConstruction$MockInitializer<TT;>;)Lorg/mockito/MockedConstruction<TT;>;
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;Lorg/mockito/MockSettings;Lorg/mockito/MockedConstruction$MockInitializer<TT;>;)L1org/mockito/MockedConstruction<TT;>;
