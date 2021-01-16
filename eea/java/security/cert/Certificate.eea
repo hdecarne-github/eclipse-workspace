@@ -1,0 +1,4 @@
+class java/security/cert/Certificate
+getPublicKey
+ ()Ljava/security/PublicKey;
+ ()L1java/security/PublicKey;

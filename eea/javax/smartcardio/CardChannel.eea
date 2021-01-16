@@ -1,0 +1,4 @@
+class javax/smartcardio/CardChannel
+transmit
+ (Ljavax/smartcardio/CommandAPDU;)Ljavax/smartcardio/ResponseAPDU;
+ (Ljavax/smartcardio/CommandAPDU;)L1javax/smartcardio/ResponseAPDU;

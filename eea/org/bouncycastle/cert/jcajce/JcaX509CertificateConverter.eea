@@ -1,0 +1,4 @@
+class org/bouncycastle/cert/jcajce/JcaX509CertificateConverter
+getCertificate
+ (Lorg/bouncycastle/cert/X509CertificateHolder;)Ljava/security/cert/X509Certificate;
+ (Lorg/bouncycastle/cert/X509CertificateHolder;)L1java/security/cert/X509Certificate;

@@ -1,0 +1,7 @@
+class java/security/Provider
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getServices
+ ()Ljava/util/Set<Ljava/security/Provider$Service;>;
+ ()L1java/util/Set<L1java/security/Provider$Service;>;

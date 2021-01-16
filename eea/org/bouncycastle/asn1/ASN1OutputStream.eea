@@ -1,0 +1,4 @@
+class org/bouncycastle/asn1/ASN1OutputStream
+create
+ (Ljava/io/OutputStream;Ljava/lang/String;)Lorg/bouncycastle/asn1/ASN1OutputStream;
+ (Ljava/io/OutputStream;Ljava/lang/String;)L1org/bouncycastle/asn1/ASN1OutputStream;

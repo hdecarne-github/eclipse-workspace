@@ -1,0 +1,4 @@
+class javax/smartcardio/CommandAPDU
+getBytes
+ ()[B
+ ()[1B

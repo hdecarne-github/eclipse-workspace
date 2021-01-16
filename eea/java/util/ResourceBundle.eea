@@ -2,3 +2,9 @@ class java/util/ResourceBundle
 getBundle
  (Ljava/lang/String;)Ljava/util/ResourceBundle;
  (Ljava/lang/String;)L1java/util/ResourceBundle;
+getString
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L1java/lang/String;
+keySet
+ ()Ljava/util/Set<Ljava/lang/String;>;
+ ()L1java/util/Set<L1java/lang/String;>;

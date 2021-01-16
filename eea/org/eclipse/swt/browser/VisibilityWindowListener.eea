@@ -1,0 +1,13 @@
+class org/eclipse/swt/browser/VisibilityWindowListener
+hide
+ (Lorg/eclipse/swt/browser/WindowEvent;)V
+ (L1org/eclipse/swt/browser/WindowEvent;)V
+hideAdapter
+ (Ljava/util/function/Consumer<Lorg/eclipse/swt/browser/WindowEvent;>;)Lorg/eclipse/swt/browser/VisibilityWindowListener;
+ (L1java/util/function/Consumer<L1org/eclipse/swt/browser/WindowEvent;>;)L1org/eclipse/swt/browser/VisibilityWindowListener;
+show
+ (Lorg/eclipse/swt/browser/WindowEvent;)V
+ (L1org/eclipse/swt/browser/WindowEvent;)V
+showAdapter
+ (Ljava/util/function/Consumer<Lorg/eclipse/swt/browser/WindowEvent;>;)Lorg/eclipse/swt/browser/VisibilityWindowListener;
+ (L1java/util/function/Consumer<L1org/eclipse/swt/browser/WindowEvent;>;)L1org/eclipse/swt/browser/VisibilityWindowListener;

@@ -1,0 +1,10 @@
+class javax/smartcardio/Card
+getATR
+ ()Ljavax/smartcardio/ATR;
+ ()L1javax/smartcardio/ATR;
+getBasicChannel
+ ()Ljavax/smartcardio/CardChannel;
+ ()L1javax/smartcardio/CardChannel;
+getProtocol
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

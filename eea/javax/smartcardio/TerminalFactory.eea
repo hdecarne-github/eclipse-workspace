@@ -1,0 +1,7 @@
+class javax/smartcardio/TerminalFactory
+getDefault
+ ()Ljavax/smartcardio/TerminalFactory;
+ ()L1javax/smartcardio/TerminalFactory;
+getType
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

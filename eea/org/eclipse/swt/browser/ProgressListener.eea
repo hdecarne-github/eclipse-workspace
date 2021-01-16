@@ -1,0 +1,13 @@
+class org/eclipse/swt/browser/ProgressListener
+changed
+ (Lorg/eclipse/swt/browser/ProgressEvent;)V
+ (L1org/eclipse/swt/browser/ProgressEvent;)V
+changedAdapter
+ (Ljava/util/function/Consumer<Lorg/eclipse/swt/browser/ProgressEvent;>;)Lorg/eclipse/swt/browser/ProgressListener;
+ (L1java/util/function/Consumer<L1org/eclipse/swt/browser/ProgressEvent;>;)L1org/eclipse/swt/browser/ProgressListener;
+completed
+ (Lorg/eclipse/swt/browser/ProgressEvent;)V
+ (L1org/eclipse/swt/browser/ProgressEvent;)V
+completedAdapter
+ (Ljava/util/function/Consumer<Lorg/eclipse/swt/browser/ProgressEvent;>;)Lorg/eclipse/swt/browser/ProgressListener;
+ (L1java/util/function/Consumer<L1org/eclipse/swt/browser/ProgressEvent;>;)L1org/eclipse/swt/browser/ProgressListener;

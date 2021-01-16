@@ -1,0 +1,7 @@
+class javax/smartcardio/ATR
+getBytes
+ ()[B
+ ()[1B
+getHistoricalBytes
+ ()[B
+ ()[1B

@@ -1,0 +1,4 @@
+class org/bouncycastle/util/Arrays
+clone
+ ([B)[B
+ ([B)[1B
