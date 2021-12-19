@@ -1,0 +1,4 @@
+class jakarta/ws/rs/client/ClientResponseFilter
+filter
+ (Ljakarta/ws/rs/client/ClientRequestContext;Ljakarta/ws/rs/client/ClientResponseContext;)V
+ (L1jakarta/ws/rs/client/ClientRequestContext;L1jakarta/ws/rs/client/ClientResponseContext;)V

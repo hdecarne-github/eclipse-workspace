@@ -5,6 +5,9 @@ asList
 copyOf
  ([BI)[B
  ([BI)[1B
+copyOf
+ <T:Ljava/lang/Object;>([TT;I)[TT;
+ <T:Ljava/lang/Object;>([TT;I)[1TT;
 copyOfRange
  ([BII)[B
  ([BII)[1B

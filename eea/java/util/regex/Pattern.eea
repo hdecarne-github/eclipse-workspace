@@ -5,3 +5,6 @@ compile
 matcher
  (Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;
  (Ljava/lang/CharSequence;)L1java/util/regex/Matcher;
+pattern
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

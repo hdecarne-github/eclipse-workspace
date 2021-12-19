@@ -1,0 +1,4 @@
+class java/nio/file/attribute/FileTime
+fromMillis
+ (J)Ljava/nio/file/attribute/FileTime;
+ (J)L1java/nio/file/attribute/FileTime;

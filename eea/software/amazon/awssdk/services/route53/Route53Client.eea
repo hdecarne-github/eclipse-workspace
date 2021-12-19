@@ -1,0 +1,4 @@
+class software/amazon/awssdk/services/route53/Route53Client
+builder
+ ()Lsoftware/amazon/awssdk/services/route53/Route53ClientBuilder;
+ ()L1software/amazon/awssdk/services/route53/Route53ClientBuilder;

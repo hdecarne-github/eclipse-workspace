@@ -1,0 +1,7 @@
+class java/lang/module/ModuleDescriptor
+name
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+read
+ (Ljava/io/InputStream;)Ljava/lang/module/ModuleDescriptor;
+ (Ljava/io/InputStream;)L1java/lang/module/ModuleDescriptor;

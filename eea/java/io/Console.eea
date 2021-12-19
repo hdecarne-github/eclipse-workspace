@@ -1,0 +1,4 @@
+class java/io/Console
+writer
+ ()Ljava/io/PrintWriter;
+ ()L1java/io/PrintWriter;

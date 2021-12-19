@@ -1,0 +1,22 @@
+class java/net/http/HttpClient
+authenticator
+ ()Ljava/util/Optional<Ljava/net/Authenticator;>;
+ ()L1java/util/Optional<Ljava/net/Authenticator;>;
+connectTimeout
+ ()Ljava/util/Optional<Ljava/time/Duration;>;
+ ()L1java/util/Optional<Ljava/time/Duration;>;
+cookieHandler
+ ()Ljava/util/Optional<Ljava/net/CookieHandler;>;
+ ()L1java/util/Optional<Ljava/net/CookieHandler;>;
+executor
+ ()Ljava/util/Optional<Ljava/util/concurrent/Executor;>;
+ ()L1java/util/Optional<Ljava/util/concurrent/Executor;>;
+proxy
+ ()Ljava/util/Optional<Ljava/net/ProxySelector;>;
+ ()L1java/util/Optional<Ljava/net/ProxySelector;>;
+sendAsync
+ <T:Ljava/lang/Object;>(Ljava/net/http/HttpRequest;Ljava/net/http/HttpResponse$BodyHandler<TT;>;)Ljava/util/concurrent/CompletableFuture<Ljava/net/http/HttpResponse<TT;>;>;
+ <T:Ljava/lang/Object;>(Ljava/net/http/HttpRequest;Ljava/net/http/HttpResponse$BodyHandler<TT;>;)L1java/util/concurrent/CompletableFuture<Ljava/net/http/HttpResponse<TT;>;>;
+sendAsync
+ <T:Ljava/lang/Object;>(Ljava/net/http/HttpRequest;Ljava/net/http/HttpResponse$BodyHandler<TT;>;Ljava/net/http/HttpResponse$PushPromiseHandler<TT;>;)Ljava/util/concurrent/CompletableFuture<Ljava/net/http/HttpResponse<TT;>;>;
+ <T:Ljava/lang/Object;>(Ljava/net/http/HttpRequest;Ljava/net/http/HttpResponse$BodyHandler<TT;>;Ljava/net/http/HttpResponse$PushPromiseHandler<TT;>;)L1java/util/concurrent/CompletableFuture<Ljava/net/http/HttpResponse<TT;>;>;

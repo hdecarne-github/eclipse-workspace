@@ -1,4 +1,7 @@
 class java/net/InetAddress
+getByName
+ (Ljava/lang/String;)Ljava/net/InetAddress;
+ (Ljava/lang/String;)L1java/net/InetAddress;
 getHostName
  ()Ljava/lang/String;
  ()L1java/lang/String;

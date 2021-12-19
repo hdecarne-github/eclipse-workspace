@@ -1,0 +1,7 @@
+class software/amazon/awssdk/services/route53/model/ResourceRecordSet
+resourceRecords
+ ()Ljava/util/List<Lsoftware/amazon/awssdk/services/route53/model/ResourceRecord;>;
+ ()L0java/util/List<L1software/amazon/awssdk/services/route53/model/ResourceRecord;>;
+type
+ ()Lsoftware/amazon/awssdk/services/route53/model/RRType;
+ ()L1software/amazon/awssdk/services/route53/model/RRType;

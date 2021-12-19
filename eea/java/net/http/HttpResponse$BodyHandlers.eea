@@ -1,0 +1,4 @@
+class java/net/http/HttpResponse$BodyHandlers
+ofString
+ ()Ljava/net/http/HttpResponse$BodyHandler<Ljava/lang/String;>;
+ ()L1java/net/http/HttpResponse$BodyHandler<L1java/lang/String;>;

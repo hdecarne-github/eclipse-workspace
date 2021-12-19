@@ -1,0 +1,4 @@
+class jakarta/ws/rs/core/MediaType
+valueOf
+ (Ljava/lang/String;)Ljakarta/ws/rs/core/MediaType;
+ (Ljava/lang/String;)L1jakarta/ws/rs/core/MediaType;

@@ -1,0 +1,4 @@
+class jakarta/ws/rs/client/ClientBuilder
+build
+ ()Ljakarta/ws/rs/client/Client;
+ ()L1jakarta/ws/rs/client/Client;

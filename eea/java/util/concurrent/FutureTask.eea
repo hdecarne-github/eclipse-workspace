@@ -1,0 +1,4 @@
+class java/util/concurrent/FutureTask
+<init>
+ (Ljava/lang/Runnable;TV;)V
+ (Ljava/lang/Runnable;T0V;)V

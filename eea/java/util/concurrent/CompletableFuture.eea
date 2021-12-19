@@ -1,0 +1,4 @@
+class java/util/concurrent/CompletableFuture
+completedFuture
+ <U:Ljava/lang/Object;>(TU;)Ljava/util/concurrent/CompletableFuture<TU;>;
+ <U:Ljava/lang/Object;>(TU;)L1java/util/concurrent/CompletableFuture<TU;>;

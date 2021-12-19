@@ -1,0 +1,7 @@
+class javax/net/ssl/SSLContext
+getDefault
+ ()Ljavax/net/ssl/SSLContext;
+ ()L1javax/net/ssl/SSLContext;
+getDefaultSSLParameters
+ ()Ljavax/net/ssl/SSLParameters;
+ ()L1javax/net/ssl/SSLParameters;
